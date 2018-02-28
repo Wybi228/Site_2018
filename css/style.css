@@ -499,3 +499,14 @@ ul li a:hover{
   color: rgb(253, 204, 82);
     transition: all 0.35s;
 }
+.downBtn{
+  position: absolute;
+  top: 50%;
+  text-decoration: none;
+  color: #fff;
+  font-size: 500%;
+   font-family: Catamaran,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+
+}
